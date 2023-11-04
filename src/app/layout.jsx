@@ -1,3 +1,4 @@
+import Header from '@/components/header'
 import './globals.css'
 
 export default function RootLayout({ children }) {
@@ -8,7 +9,16 @@ export default function RootLayout({ children }) {
         head.jsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       
-      <body>{children}</body>
+      <body>
+        {/*Header*/}
+        <Header/>
+        {/*Navbar*/}
+
+        {/*Search bar*/}
+        
+        {children}
+        
+      </body>
     </html>
   )
 }
