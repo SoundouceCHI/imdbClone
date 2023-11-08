@@ -14,7 +14,7 @@ export default function About(){
         Educational Resources: For the film scholar and the curious learner, we offer articles, essays, and resources that delve deep into film theory and history.
         </p>
         <p>
-        Our database is more than just a collection of titles. It's a gateway to the stories that shape our world, the artistry that inspires us, and the community that finds common ground in the shared love of film.
+        Our database is more than just a collection of titles, gateway to the stories that shape our world, the artistry that inspires us, and the community that finds common ground in the shared love of film.
         </p>
     </div>; 
 }
