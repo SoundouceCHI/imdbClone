@@ -1,42 +1,23 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# IMDb Clone Project in Next.js
+
+## Overview
+This project is an IMDb clone built with Next.js and styled using Tailwind CSS. It aims to replicate the essential features of the IMDb platform, providing users with the ability to explore and interact with movie information.
+
+## Features
+- **Movie Listings:** Browse a comprehensive list of movies.
+- **Movie Details:** Access detailed information about each movie, including cast, crew, synopsis, and ratings.
+- **User Reviews:** Read and write reviews for movies.
+- **Search Functionality:** Search for movies by title, genre, or cast.
+
+## Technologies
+- **Next.js:** A React framework for server-side rendering and static site generation.
+- **TMDB API:** Used to fetch real-time movie data.
+- **Tailwind CSS:** A utility-first CSS framework for styling.
+- **Vercel:** Platform for deployment and hosting.
 
 ## Getting Started
+Follow these steps to set up the project on your local machine:
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.jsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# imdb
->>>>>>> 369aa800926691a83ad6e23f6759d3353d4875b5
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/imdb-clone-nextjs.git
